@@ -12,3 +12,6 @@ float Luassegitiga(float a, float t) {
 float Luaslingkaran(float r) {
 	return 3, 14 * r * r;
 }
+
+
+int main() {
