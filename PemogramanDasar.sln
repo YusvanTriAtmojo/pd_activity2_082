@@ -5,6 +5,8 @@ VisualStudioVersion = 17.5.33424.131
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "PemogramanDasar", "PemogramanDasar\PemogramanDasar.vcxproj", "{7F9EE052-64E2-4336-80C6-F1F962F3E76C}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LatihanLooping", "LatihanLooping\LatihanLooping.vcxproj", "{D160A6B8-5353-4CE7-81C4-D2DE5C6A4A2B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -21,6 +23,14 @@ Global
 		{7F9EE052-64E2-4336-80C6-F1F962F3E76C}.Release|x64.Build.0 = Release|x64
 		{7F9EE052-64E2-4336-80C6-F1F962F3E76C}.Release|x86.ActiveCfg = Release|Win32
 		{7F9EE052-64E2-4336-80C6-F1F962F3E76C}.Release|x86.Build.0 = Release|Win32
+		{D160A6B8-5353-4CE7-81C4-D2DE5C6A4A2B}.Debug|x64.ActiveCfg = Debug|x64
+		{D160A6B8-5353-4CE7-81C4-D2DE5C6A4A2B}.Debug|x64.Build.0 = Debug|x64
+		{D160A6B8-5353-4CE7-81C4-D2DE5C6A4A2B}.Debug|x86.ActiveCfg = Debug|Win32
+		{D160A6B8-5353-4CE7-81C4-D2DE5C6A4A2B}.Debug|x86.Build.0 = Debug|Win32
+		{D160A6B8-5353-4CE7-81C4-D2DE5C6A4A2B}.Release|x64.ActiveCfg = Release|x64
+		{D160A6B8-5353-4CE7-81C4-D2DE5C6A4A2B}.Release|x64.Build.0 = Release|x64
+		{D160A6B8-5353-4CE7-81C4-D2DE5C6A4A2B}.Release|x86.ActiveCfg = Release|Win32
+		{D160A6B8-5353-4CE7-81C4-D2DE5C6A4A2B}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
